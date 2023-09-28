@@ -1,0 +1,1 @@
+# ad_hoc_consumer_goods_SQL
